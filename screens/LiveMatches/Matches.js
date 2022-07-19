@@ -93,7 +93,7 @@ const Matches = () => {
   return (
     <View>
       <View style={styles.upper}>
-        <Text style={styles.text}>CURRENT MATCHES</Text>
+        <Text style={styles.text}>MATCHES</Text>
       </View>
       <View>
         <FlatList
